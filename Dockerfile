@@ -1,0 +1,54 @@
+FROM debian
+COPY . .
+EXPOSE 8080
+ENTRYPOINT ["./project123"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
